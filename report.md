@@ -1,4 +1,4 @@
-# Dynamic Fee Formula Comparison (Plain Text)
+# Dynamic Fee Formula Comparison
 
 This document explains a dynamic fee formula that combines linear and quadratic terms, as presented in an image, and compares it to a purely linear fee model. It covers the formula's structure, its purpose, and the differences between the two approaches with examples. Mathematical expressions are written in plain text for compatibility.
 

@@ -1,6 +1,6 @@
 # Dynamic Fee Mechanism Evaluation
 
-This project evaluates the commercial viability of a proposed dynamic fee mechanism compared to existing protocols like Curve StableSwapNG and Balancer StableSurge.
+This project evaluates the commercial viability of a proposed dynamic fee mechanism compared to existing protocols like Balancer StableSurge.
 
 ## Overview
 
